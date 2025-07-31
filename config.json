@@ -128,6 +128,38 @@
     "dianyingtiantang": {
       "api": "https://dydytt.net/api.php/provide/vod",
       "name": "电影天堂"
+    },
+    "tengxun": {
+      "api": "https://v.qq.com/api.php/provide/vod",
+      "name": "腾讯视频"
+    },
+    "iqiyi": {
+      "api": "https://www.iqiyi.com/api.php/provide/vod",
+      "name": "爱奇艺"
+    },
+    "youku": {
+      "api": "https://www.youku.com/api.php/provide/vod",
+      "name": "优酷"
+    },
+    "sohu": {
+      "api": "https://tv.sohu.com/api.php/provide/vod",
+      "name": "搜狐"
+    },
+    "bilibili": {
+      "api": "https://www.bilibili.com/api.php/provide/vod",
+      "name": "bilibili"
+    },
+    "migu": {
+      "api": "https://www.miguvideo.com/api.php/provide/vod",
+      "name": "咪咕"
+    },
+    "ixigua": {
+      "api": "https://www.ixigua.com/api.php/provide/vod",
+      "name": "西瓜视频"
+    },
+    "youtube": {
+      "api": "https://www.youtube.com/api.php/provide/vod",
+      "name": "油管"
     }
   }
 }
